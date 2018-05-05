@@ -11,8 +11,7 @@ classifiers=[
 
     'Topic :: Ponies',
 
-    # Pick your license as you wish (should match "license" above)
-     'License :: GPL-3.0',
+    'License :: GPL-3.0',
 
     'Programming Language :: Python :: 3',
     'Programming Language :: Python :: 3.2',
