@@ -1,4 +1,4 @@
-# The Pony Information Project [![Generic badge](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://harens.github.io/CreativeProject/)
+# The Pony Information Project [![Generic badge](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://harens.github.io/CreativeProject/) [![Build Status](https://travis-ci.org/harens/PyPony.svg?branch=master)](https://travis-ci.org/harens/PyPony)
 
 Visit the 'Creative Project' website [here](https://harens.github.io/CreativeProject/)
 
