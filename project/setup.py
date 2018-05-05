@@ -1,6 +1,6 @@
 from setuptools import setup
 setup(name='PyPony',
-version='0.9.0',
+version='0.9',
 description='ThePonyInformationProject in Python',
 url='https://harens.github.io/ThePonyInformationProject/',
 author='harens',
