@@ -12,7 +12,6 @@ Feel free to help out on any [issues](https://github.com/harens/PyPony/issues)
 
 I thank you in advance for your suggestions and changes :+1:
 ### Contributors and Resources
-#### Shell and Python Edition
 1. ASCII art was used from [Asciiworld](http://www.asciiworld.com/-Horses-.html) and [Patorjk](http://patorjk.com/software/taag/)
 2. Sources for the information used can be found in the scripts
 
