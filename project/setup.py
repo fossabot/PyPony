@@ -9,7 +9,6 @@ license='GPL-3.0',
 classifiers=[
     'Development Status :: 4 - Beta',
 
-    'Intended Audience :: Pony Enthusiasts',
     'Topic :: Ponies',
 
     # Pick your license as you wish (should match "license" above)
