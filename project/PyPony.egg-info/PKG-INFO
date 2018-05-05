@@ -1,0 +1,24 @@
+Metadata-Version: 1.2
+Name: PyPony
+Version: 0.9
+Summary: ThePonyInformationProject in Python
+Home-page: https://harens.github.io/ThePonyInformationProject/
+Author: harens
+Author-email: harensdeveloper@gmail.com
+License: GPL-3.0
+Project-URL: Source, https://github.com/harens/PyPony
+Project-URL: CreativeProject, https://harens.github.io/CreativeProject/
+Project-URL: Say Thanks!, https://saythanks.io/to/harens
+Project-URL: Tracker, https://github.com/harens/PyPony/issues
+Description: UNKNOWN
+Keywords: Pony Information CreativeProject
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Pony Enthusiasts
+Classifier: Topic :: Ponies
+Classifier: License :: GPL-3.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Requires-Python: >=3
