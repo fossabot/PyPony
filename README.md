@@ -18,6 +18,6 @@ I thank you in advance for your suggestions and changes :+1:
 1. ASCII art was used from [Asciiworld](http://www.asciiworld.com/-Horses-.html) and [Patorjk](http://patorjk.com/software/taag/)
 2. Sources for the information used can be found in the scripts
 
-### License [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/harens/ThePonyInformationProject/blob/master/LICENSE)
-ThePonyInformationProject is licensed under the [GNU General Public License v3.0](https://github.com/harens/ThePonyInformationProject/blob/master/LICENSE)
+### License [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/harens/PyPony/blob/master/LICENSE)
+ThePonyInformationProject is licensed under the [GNU General Public License v3.0](https://github.com/harens/PyPony/blob/master/LICENSE)
 
