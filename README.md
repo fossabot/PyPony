@@ -2,15 +2,13 @@
 
 Visit the 'Creative Project' website [here](https://harens.github.io/CreativeProject/)
 
-| Edition  | Build Status |
-| ------------- | ------------- |
-| [Python Edition](https://github.com/harens/ThePonyInformationProject/tree/Python-Edition)  | [![Build Status](https://travis-ci.org/harens/ThePonyInformationProject.svg?branch=Python-Edition)](https://travis-ci.org/harens/ThePonyInformationProject)  |
-
 ### About
 The Pony Information Project aims to educate all about ponies!
 
-### How to contribute [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/harens/ThePonyInformationProject/graphs/commit-activity)
-Please see the [Contributing Guidelines](https://github.com/harens/ThePonyInformationProject/blob/master/CONTRIBUTING.md) as well as the [Code of Conduct](https://github.com/harens/ThePonyInformationProject/blob/master/CODE_OF_CONDUCT.md)
+### How to contribute [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/harens/PyPony/graphs/commit-activity)
+Please see the [Code of Conduct](https://github.com/harens/PyPony/blob/master/CODE_OF_CONDUCT.md) before contributing.
+
+Feel free to help out on any [issues](https://github.com/harens/PyPony/issues)
 
 I thank you in advance for your suggestions and changes :+1:
 ### Contributors and Resources
