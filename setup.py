@@ -1,8 +1,6 @@
 name='PyPony',
 version='0.9.0',
 description='ThePonyInformationProject in Python',
-long_description=ThePonyInformationProject aims to educate all about ponies. Now, it has come to Python!,
-long_description_content_type='text/x-rst',
 url='https://harens.github.io/ThePonyInformationProject/',
 author='harens',
 author_email='harensdeveloper@gmail.com',
