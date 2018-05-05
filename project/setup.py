@@ -8,9 +8,7 @@ author_email='harensdeveloper@gmail.com',
 license='GPL-3.0',
 classifiers=[
     'Development Status :: 4 - Beta',
-
-    'Topic :: Ponies',
-
+    
     'License :: GPL-3.0',
 
     'Programming Language :: Python :: 3',
