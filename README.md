@@ -1,4 +1,5 @@
 ![ThePonyInformationProject in the terminal](https://github.com/harens/PyPony/blob/master/Logo.png)
+
 [![Generic badge](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://harens.github.io/CreativeProject/) [![Build Status](https://travis-ci.org/harens/PyPony.svg?branch=master)](https://travis-ci.org/harens/PyPony) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 Visit the 'Creative Project' website [here](https://harens.github.io/CreativeProject/)
