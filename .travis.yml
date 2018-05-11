@@ -20,9 +20,6 @@ matrix:
   allow_failures:
     - python: nightly
       env: TOXENV=py
-    - os: osx
-      language: python
-      env: TOXENV=py
   fast_finish: true
 
 before_install:
