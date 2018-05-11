@@ -12,10 +12,6 @@ matrix:
       env: TOXENV=py,codecov
     - python: 3.4
       env: TOXENV=py,codecov
-    - python: 2.7
-      env: TOXENV=py,simplejson,devel,lowest,codecov
-    - python: pypy
-      env: TOXENV=py,codecov
     - python: nightly
       env: TOXENV=py
     - os: osx
@@ -33,12 +29,7 @@ before_install:
   - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then
       brew update;
       brew install python3 redis memcached;
-      virtualenv -p python3 ~/py-env;
-      . ~/py-env/bin/activate;
     fi
-
-install:
-  - pip install tox
 
 script: python index.py < testing.txt
 
