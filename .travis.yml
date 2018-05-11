@@ -19,9 +19,6 @@ matrix:
       env: TOXENV=py
   fast_finish: true
 
-before_script:
-  - pip install -r test_requirements.txt
-
 script: python3 index.py < testing.txt
 
 cache:
