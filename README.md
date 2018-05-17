@@ -26,5 +26,5 @@ I thank you in advance for your suggestions and changes. :+1:
 ### License [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/harens/PyPony/blob/master/LICENSE)
 ThePonyInformationProject is licensed under the [GNU General Public License v3.0](https://github.com/harens/PyPony/blob/master/LICENSE).
 
-The font (Lato) found in the is licensed under the [SIL Open Font License Version 1.1](https://github.com/harens/PyPony/blob/master/Logo/License%20for%20'Lato')
+The font (Lato) found in the Logo is licensed under the [SIL Open Font License Version 1.1](https://github.com/harens/PyPony/blob/master/Logo/License%20for%20'Lato')
 
