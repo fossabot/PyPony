@@ -1,6 +1,6 @@
 ![ThePonyInformationProject in IDLE](https://github.com/harens/PyPony/blob/master/Logo/Logo.png)
 
-[![Creative Project](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://harens.github.io/CreativeProject/) [![Build Status](https://travis-ci.org/harens/PyPony.svg?branch=master)](https://travis-ci.org/harens/PyPony) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Creative Project](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://harens.github.io/CreativeProject/) [![Build Status](https://travis-ci.org/harens/PyPony.svg?branch=master)](https://travis-ci.org/harens/PyPony) [![Documentation Status](https://readthedocs.org/projects/pypony/badge/?version=latest)](http://pypony.readthedocs.io/en/latest/?badge=latest)
 
 Visit the 'Creative Project' website [here](https://harens.github.io/CreativeProject/).
 
