@@ -12,6 +12,7 @@ The Pony Information Project aims to educate all about ponies!
 Python version must be Python 3 or above.
 
 ### How to contribute [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/harens/PyPony/graphs/commit-activity)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fharens%2FPyPony.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fharens%2FPyPony?ref=badge_shield)
 Please see the [Code of Conduct](https://github.com/harens/PyPony/blob/master/CODE_OF_CONDUCT.md) before contributing.
 
 Feel free to help out on any [issues](https://github.com/harens/PyPony/issues).
@@ -26,3 +27,6 @@ I thank you in advance for your suggestions and changes. :+1:
 ### License [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/harens/PyPony/blob/master/LICENSE)
 ThePonyInformationProject is licensed under the [GNU General Public License v3.0](https://github.com/harens/PyPony/blob/master/LICENSE).
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fharens%2FPyPony.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fharens%2FPyPony?ref=badge_large)
